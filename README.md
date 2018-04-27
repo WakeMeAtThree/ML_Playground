@@ -21,7 +21,7 @@ This is a WIP repo meant to structure a way for myself to navigate through kaggl
 --------|-------------------------------------------------------------------------------------------------------------------------|-------------------|--------------------
 1       |  [The 5-Day Data Challenge](https://www.kaggle.com/rtatman/the-5-day-data-challenge)                                    |                   |  :white_check_mark:
 2       |  [The 5-Day Regression Challenge](https://www.kaggle.com/rtatman/the-5-day-regression-challenge)                        |                   |
-3       |  (5-Day Data Challenge: Data Cleaning)[https://www.kaggle.com/rtatman/data-cleaning-challenge-handling-missing-values]  |                   |
+3       |  [5-Day Data Challenge: Data Cleaning](https://www.kaggle.com/rtatman/data-cleaning-challenge-handling-missing-values)  |                   |
 4       |  To be determined                                                                                                       |                   |
 5       |  To be determined                                                                                                       |                   |
 6       |  To be determined                                                                                                       |                   |
