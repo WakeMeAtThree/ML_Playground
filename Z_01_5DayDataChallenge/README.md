@@ -9,4 +9,4 @@ I thought it would be best to include a visual documentation of useful functions
 * [x] [ttests from Bozeman Science](https://www.youtube.com/watch?v=pTmLQvMM-1M&t=311s)
 * [x] [ttests from StatsCast](https://www.youtube.com/watch?v=0Pd3dc1GcHc)
 * [x] [chi-square test from Bozeman Science](https://www.youtube.com/watch?v=WXPBoFDqNVk)
-* [] [chi-square-test from Khan Academy](https://www.youtube.com/watch?v=2QeDRsxSF9M)
+* [ ] [chi-square-test from Khan Academy](https://www.youtube.com/watch?v=2QeDRsxSF9M)
