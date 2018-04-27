@@ -1,21 +1,9 @@
 # 30 Days of Kaggle
 
-This is a WIP repo meant to structure a way of finishing kaggle competition entries. I'm planning to start by going through the `Getting Started` set of competitions, and as is the case with the other repos, it's meant to gather a momentum to continue with after the end of this repository as well as gather a set of tools to be used in future projects. 
+This is a WIP repo meant to structure a way for myself to navigate through kaggle competition entries. I'm planning to start by going through the `Getting Started` set of competitions, and as is the case with the other repos, it's meant to gather a momentum to continue with after the end of this 30 days time period as well as gather a set of tools to be used in future projects. 
 
-____
-# Coursework Reference
 
-| **id** | **Course Name**                                                                                                           | **Completed**      | **Notes** |
-|--------|---------------------------------------------------------------------------------------------------------------------------|--------------------|-----------|
-| 1      | [Coursera's Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)                               | :white_check_mark: |           |
-| 2      | [Udacity's Intro to Machine Learning](https://classroom.udacity.com/courses/ud120)                                        |                    |           |
-| 3      | [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework) |                    |           |
-| 4      | [Fast.ai's Deep Learning MOOC](http://www.fast.ai/)                                                                       |                    |           |
-  
-# Useful Resources
-- https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
-
-# Getting Started + Playground
+# Competition Focus
 
 | **id** | **Competition**                                                                                                                                     | **Completed** | **Notes** |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------|
@@ -27,7 +15,13 @@ ____
 | 6      | [DonorsChoose.org Application Screening](https://www.kaggle.com/c/donorschoose-application-screening)                                               |               |           |
 | 7      | [Final project for "How to win a data science competition" Coursera course](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) |               |           |
 
-___
+# Daily log
 
-# Featured
-WIP
+
+
+  
+# Useful Resources
+* [x] [Coursera's Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+* [ ] [Udacity's Intro to Machine Learning](https://classroom.udacity.com/courses/ud120)
+* [ ] [Fast.ai's Deep Learning MOOC](http://www.fast.ai/)  
+* [ ] [Google's Tensorflow crashcourse](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
