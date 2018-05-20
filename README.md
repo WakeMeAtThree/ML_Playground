@@ -56,3 +56,4 @@ This is a WIP repo meant to structure a way for myself to navigate through kaggl
 * [ ] [Fast.ai's Deep Learning MOOC](http://www.fast.ai/)  
 * [ ] [Google's Tensorflow crashcourse](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
 * [ ] [Tensorflow Playground](https://playground.tensorflow.org/)
+* [ ] http://neuralnetworksanddeeplearning.com/
