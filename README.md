@@ -2,6 +2,13 @@
 
 This is a WIP repo meant to structure a way for myself to navigate through kaggle competition entries. I'm planning to start by going through the `Getting Started` set of competitions, and as is the case with the other repos, it's meant to gather a momentum to continue with after the end of this 30 days time period as well as gather a set of tools to be used in future projects. 
 
+# Useful commands to know about
+I was able to turn my laptop with nvidia gpu and full jupyter environment (fastai) into a server that I can access remotely. Make sure you use the following:
+```
+jupyter notebook password
+jupyter notebook --no-browser --ip YOURIPGOESHERE --port 8888
+```
+to set up your password and the notebooks localhost address (you can get your network address using `ipconfig`).
 
 # Competition Focus
 
