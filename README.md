@@ -1,4 +1,4 @@
-# 30 Days of Kaggle
+# ML_Playground
 
 This is a WIP repo meant to structure a way for myself to navigate through kaggle competition entries. I'm planning to start by going through the `Getting Started` set of competitions, and as is the case with the other repos, it's meant to gather a momentum to continue with after the end of this 30 days time period as well as gather a set of tools to be used in future projects. 
 
