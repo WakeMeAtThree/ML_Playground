@@ -8,7 +8,20 @@ I was able to turn my laptop with nvidia gpu and full jupyter environment (fasta
 jupyter notebook password
 jupyter notebook --no-browser --ip YOURIPGOESHERE --port 8888
 ```
-to set up your password and the notebooks localhost address (you can get your network address using `ipconfig`).
+to set up your password and the notebooks localhost address (you can get your network address using `ipconfig`). I normally use the following script to automate this:
+
+```python
+import subprocess,socket,os,pyperclip
+
+localIP = socket.gethostbyname(socket.gethostname())
+path1 = os.path.join("c:",os.sep,os.environ['USERPROFILE'],"MiniConda3","Scripts")
+path2 = os.path.join("c:",os.sep,os.environ['USERPROFILE'],"Desktop","Programming")
+command = f"cd /d {path1} & activate & activate fastai & cd {path2} & jupyter notebook --no-browser --ip {localIP} --port 8888"
+
+pyperclip.copy(f"{localIP}:8888")
+subprocess.call(command, shell=True)
+```
+
 
 # Competition Focus
 
