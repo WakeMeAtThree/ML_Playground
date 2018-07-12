@@ -6,5 +6,6 @@
 - [KAGGLE ENSEMBLING GUIDE](https://mlwave.com/kaggle-ensembling-guide/)
 - [Data Augmentation | How to use Deep Learning when you have Limited Data — Part 2](https://medium.com/nanonets/how-to-use-deep-learning-when-you-have-limited-data-part-2-data-augmentation-c26971dc8ced)
 - [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/)
+- [fastai thread on Data Augmentat](http://forums.fast.ai/t/data-augmentation/175)
 
 Note to self: implement some Processing data augmentation tools.
